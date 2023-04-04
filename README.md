@@ -71,18 +71,18 @@
 # 4.生成基底圖
 ## 4-1. 回到Discord的剛剛開好的頻道
 ## 4-2. 輸入 /
-## 4-3.選擇 /image 那個選項![[Pasted image 20230404184528.png]]
+## 4-3.選擇 /image 那個選項[Pasted image 20230404184528.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184528.png)
 ## 4-4.貼上剛剛複製下來的角色提示
-![[Pasted image 20230404184728.png]]
+[Pasted image 20230404184728.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184728.png)
 ## 4-5.等待生成完成後選一個你喜歡的圖
-![[Pasted image 20230404184854.png]]
+[Pasted image 20230404184854.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184728.png)
 ### 排序方式是左到右 上到下
 ```
 1 2
 3 4
 ```
 ### 有看到感覺不錯的就按下 U(號碼)的按鈕
-![[Pasted image 20230404185319.png]]
+[Pasted image 20230404185319.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted image 20230404185319.png)
 ### 沒有的話就按藍色那個刷新鈕
 ![[Pasted image 20230404185309.png]]
 ### 比如我覺得1不錯就按下 U1
