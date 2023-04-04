@@ -162,5 +162,3 @@ Expression: Confusion, Action: Shrugging shoulders with palms facing upwards
 ## 連點兩下 切割.exe 跑出 finish 
 ![[Pasted image 20230405063402.png]]
 ## 就是切割完畢了 接下來就自行挑選 修改圖片 並上架LINE貼圖吧
-
-# 推薦把
