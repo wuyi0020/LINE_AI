@@ -75,7 +75,7 @@
 ## 4-4.貼上剛剛複製下來的角色提示
 ![Pasted image 20230404184728.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184728.png)
 ## 4-5.等待生成完成後選一個你喜歡的圖
-![Pasted image 20230404184854.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184728.png)
+![Pasted image 20230404184854.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184854.png)
 ### 排序方式是左到右 上到下
 ```
 1 2
