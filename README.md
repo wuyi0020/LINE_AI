@@ -73,24 +73,24 @@
 ## 4-2. 輸入 /
 ## 4-3.選擇 /image 那個選項![Pasted image 20230404184528.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184528.png)
 ## 4-4.貼上剛剛複製下來的角色提示
-[Pasted image 20230404184728.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184728.png)
+![Pasted image 20230404184728.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184728.png)
 ## 4-5.等待生成完成後選一個你喜歡的圖
-[Pasted image 20230404184854.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184728.png)
+![Pasted image 20230404184854.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404184728.png)
 ### 排序方式是左到右 上到下
 ```
 1 2
 3 4
 ```
 ### 有看到感覺不錯的就按下 U(號碼)的按鈕
-![Pasted image 20230404185319.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted image 20230404185319.png)
+![Pasted image 20230404185319.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404185319.png)
 ### 沒有的話就按藍色那個刷新鈕
-![Pasted image 20230404185309.png]
+![Pasted image 20230404185309.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404185309.png)
 ### 比如我覺得1不錯就按下 U1
 ### 按下後AI就會放大圖片 這張圖就可以當作基底圖了
-![[Pasted image 20230404185436.png]]
+![Pasted image 20230404185436.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230404185436.png)
 ## 4-6.取得圖片網址
 ## 點擊圖片
-![[Pasted image 20230405054116.png]]
+![Pasted image 20230405054116.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405054116.png)
 ## 左下有個 在瀏覽器開啟 給他按下去
 ## 複製網址列內容
 ## 我的圖片網址如下
@@ -100,16 +100,16 @@ https://cdn.discordapp.com/attachments/1092709906185986061/1092764084233064499/B
 ## 除了midjourney提供的短網址外 其餘圖片連結 請找到以.png 或.jpg做結尾的連結
 
 ## 4-7.以這張圖片的連結為提示 得到圖片短網址
-![[Pasted image 20230405054923.png]]
+![Pasted image 20230405054923.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405054923.png)
 ```
 [你的網址] digital drawing cartoon sticker, Ghibli, image black border Color, flat texture cartoon style, pure white background, 2D --niji --v 5 --q 5
 ```
-![[Pasted image 20230405055055.png]]
+![Pasted image 20230405055055.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405055055.png)
 ## 生成完成後 會將原本的圖片連結變成較短的網址
 ## 也可以上傳到其他圖片網站來取得較短的網址 如[imgur](https://imgur.com/)
 
 ## 4-8.複製短網址並打開 前段.txt 將裡面的網址替換掉 如果有一個以上基底圖 網址與網址中間需輸入一個空白鍵座分隔 不建議使用超過3張圖片作為基底圖
-![[Pasted image 20230405061018.png]]
+![Pasted image 20230405061018.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405061018.png)
 
 
 ## !!!關於基底圖需要注意的點
@@ -140,7 +140,7 @@ https://cdn.discordapp.com/attachments/1092709906185986061/1092764084233064499/B
 此時需要糾正他
 
 正確格式如下
-![[Pasted image 20230405052515.png]]
+![Pasted image 20230405052515.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405052515.png)
 
 糾正他 輸入
 ```
@@ -153,12 +153,12 @@ Expression: Confusion, Action: Shrugging shoulders with palms facing upwards
 ```
 ## 5-3.確認格式正確後複製內容並生成提示
 ## 確認格式正確後將內容直接複製貼上到 中段.txt
-![[Pasted image 20230405062100.png]]
+![Pasted image 20230405062100.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405062100.png)
 ## 5-4.雙擊打開 組合.exe
-## 5-5.組合完成的模樣 ![[Pasted image 20230405062243.png]]
+## 5-5.組合完成的模樣 ![Pasted image 20230405062243.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405062243.png)
 ## 5-6.複製其中一條 到Discord貼上 並送出 然後等待生成完成
-![[Pasted image 20230405062630.png]]
-## 5-7.後續將圖片下載下來 並放在與切割.exe同級資料夾![[Pasted image 20230405063303.png]]
+![Pasted image 20230405062630.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405062630.png)
+## 5-7.後續將圖片下載下來 並放在與切割.exe同級資料夾![Pasted image 20230405063303.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405063303.png)
 ## 連點兩下 切割.exe 跑出 finish 
-![[Pasted image 20230405063402.png]]
+![Pasted image 20230405063402.png](https://github.com/wuyi0020/LINE_AI/blob/main/Pasted%20image%2020230405063402.png)
 ## 就是切割完畢了 接下來就自行挑選 修改圖片 並上架LINE貼圖吧
