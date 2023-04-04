@@ -28,7 +28,6 @@
 
 # III.下載小工具
 ## 1.[下載連結](https://reurl.cc/LNNj89)
-## 2.在GOOGLE安裝此[插件](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf)
 
 
 # 開始生成
