@@ -1,5 +1,5 @@
 # 前言
-## 推薦把下面提到的影片看完，理解小工具使用方式後再進行閱讀。不熟悉使用撰寫心得，排版糟糕請見諒
+## 推薦把下面提到的影片看完，理解小工具使用方式後再進行閱讀。不熟悉撰寫心得，排版糟糕請見諒
 
 ## 這個方法不是我原創的，我只是稍加改進，讓AI生成的圖片人物風格不會差太多，小程式可以自行製作或是使用這個頻道 [小礦工挖挖礦](https://www.youtube.com/@tiny_miner/featured)  的這部[影片](https://www.youtube.com/watch?v=neK1W0suvvA) 提到的IG[貼文](https://www.instagram.com/p/CpfxPY9vv6w/)中的[下載連結](https://reurl.cc/LNNj89)下載即可，也可以直接看他的影片使用他的方法
 
